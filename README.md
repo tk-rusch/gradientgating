@@ -29,6 +29,8 @@ pip install torch-sparse -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.
 pip install torch-cluster -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.html
 pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.html
 pip install torch-geometric
+pip install scipy
+pip install numpy
 ```
 
 # Citation
