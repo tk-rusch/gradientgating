@@ -4,7 +4,7 @@ This repository contains the implementation of **Gradient Gating (G^2)**
 from the preprint: [Gradient Gating for Deep Multi-Rate Learning on Graphs](https://arxiv.org/abs/2210.00513)
 
 <p align="center">
-<img align="middle" src="./imgs/gradient_gating_scheme.png" width="400" />
+<img align="middle" src="./imgs/gradient_gating_scheme2.png" width="400" />
 </p>
 
 ### Requirements
