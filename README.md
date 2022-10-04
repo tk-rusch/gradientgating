@@ -1,7 +1,7 @@
 <h1 align='center'> Gradient Gating for Deep Multi-Rate Learning on Graphs </h1>
 
 This repository contains the implementation of **Gradient Gating (G^2)** 
-from the preprint: [Gradient Gating for Deep Multi-Rate Learning on Graphs]()
+from the preprint: [Gradient Gating for Deep Multi-Rate Learning on Graphs](https://arxiv.org/abs/2210.00513)
 
 <p align="center">
 <img align="middle" src="./imgs/gradient_gating_scheme.png" width="400" />
@@ -32,8 +32,3 @@ pip install torch-geometric
 pip install scipy
 pip install numpy
 ```
-
-# Citation
-If you found our work useful in your research, please cite our paper at:
-
-(Also consider starring the project on GitHub.)
