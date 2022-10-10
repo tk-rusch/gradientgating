@@ -3,6 +3,9 @@
 This repository contains the implementation of **Gradient Gating (G^2)** 
 from the preprint: [Gradient Gating for Deep Multi-Rate Learning on Graphs](https://arxiv.org/abs/2210.00513)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gradient-gating-for-deep-multi-rate-learning/node-classification-on-arxiv-year)](https://paperswithcode.com/sota/node-classification-on-arxiv-year?p=gradient-gating-for-deep-multi-rate-learning)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gradient-gating-for-deep-multi-rate-learning/node-classification-on-snap-patents)](https://paperswithcode.com/sota/node-classification-on-snap-patents?p=gradient-gating-for-deep-multi-rate-learning)
+
 <p align="center">
 <img align="middle" src="./imgs/gradient_gating_scheme2.png" width="400" />
 </p>
@@ -32,3 +35,15 @@ pip install torch-geometric
 pip install scipy
 pip install numpy
 ```
+
+# Citation
+If you found our work useful in your research, please cite our paper at:
+```bibtex
+@article{rusch2022gradient,
+  title={Gradient Gating for Deep Multi-Rate Learning on Graphs},
+  author={Rusch, T Konstantin and Chamberlain, Benjamin P and Mahoney, Michael W and Bronstein, Michael M and Mishra, Siddhartha},
+  journal={arXiv preprint arXiv:2210.00513},
+  year={2022}
+}
+```
+(Also consider starring the project on GitHub.)
