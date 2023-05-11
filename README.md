@@ -1,6 +1,6 @@
 <h1 align='center'> Gradient Gating for Deep Multi-Rate Learning on Graphs </h1>
 
-This repository contains the implementation to reproduce the numerical experiments of the **ICLR 2023** paper [Gradient Gating for Deep Multi-Rate Learning on Graphs]([https://arxiv.org/abs/2210.00513](https://openreview.net/forum?id=JpRExTbl1-))
+This repository contains the implementation to reproduce the numerical experiments of the **ICLR 2023** paper [Gradient Gating for Deep Multi-Rate Learning on Graphs](https://openreview.net/forum?id=JpRExTbl1-)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gradient-gating-for-deep-multi-rate-learning/node-classification-on-arxiv-year)](https://paperswithcode.com/sota/node-classification-on-arxiv-year?p=gradient-gating-for-deep-multi-rate-learning)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gradient-gating-for-deep-multi-rate-learning/node-classification-on-genius)](https://paperswithcode.com/sota/node-classification-on-genius?p=gradient-gating-for-deep-multi-rate-learning)
